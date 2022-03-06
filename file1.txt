@@ -1,1 +1,1 @@
-This is my first file for git. This is awesome
+This is my first file for git. This is awesome. no it is better than that
